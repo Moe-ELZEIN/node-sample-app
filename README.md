@@ -8,4 +8,4 @@ npm install
 npm run test-unit
 npm run test-integration
 ```
-Test 1
+Test 3
